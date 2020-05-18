@@ -17,7 +17,7 @@ logger = logging.getLogger("lofter")
 class LofterArticleSpider(Spider):
     name = "lofter"
 
-    start_urls = [
+    https://franpp.lofter.com/ = [
         "http://0x180.lofter.com/?page=1"
     ]
 
